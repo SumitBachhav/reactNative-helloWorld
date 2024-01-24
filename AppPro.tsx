@@ -38,3 +38,4 @@ export default AppPro
 //JSX.Element means return type
 //alignItems -> left to right
 //justifyContent -> top to bottom
+//check
