@@ -38,4 +38,4 @@ export default AppPro
 //JSX.Element means return type
 //alignItems -> left to right
 //justifyContent -> top to bottom
-//check
+//useColorScheme() is hook of appearance module to manipulate light and dark mode
